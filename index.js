@@ -11,4 +11,5 @@ function johnLennonFacts(array){
   while (array.length){
     newArray.push(array.shift());
   }
+  return newArray;
 }

@@ -14,6 +14,8 @@ function johnLennonFacts(array){
   return newArray;
 }
 
+
+
 function iLoveTheBeatles(numb){
   var array = [];
   do {
